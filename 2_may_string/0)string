@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+String data structure is a fundamental concept in computer science and programming,
+representing a sequence of characters. These characters can be letters, digits, 
+symbols, or even whitespace.
+
+In most programming languages, strings are typically enclosed within quotation marks 
+(single or double) to differentiate them from other data types.
+
+For example:
+"Hello, World!"
