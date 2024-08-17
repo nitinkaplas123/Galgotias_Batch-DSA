@@ -1,5 +1,3 @@
-
-
 Solution 1-:
 Steps-:
 1)Here we need shortest distance from source to every vertex.

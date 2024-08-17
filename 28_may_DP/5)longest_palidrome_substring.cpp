@@ -7,7 +7,7 @@ Steps-:
 
 Code-:
 bool isPalidrome(string &str)
-    {
+{
         int low=0;
         int high=str.length()-1;
         while(low<high)
@@ -17,8 +17,9 @@ bool isPalidrome(string &str)
             high--;
         }
         return true;
-    }
-    string longestPalindrome(string s) {
+}
+
+string longestPalindrome(string s) {
         int n=s.length();
         int ans=0;
         string str_ans="";
@@ -38,7 +39,7 @@ bool isPalidrome(string &str)
             }
         }
         return str_ans;
-    }
+}
 
 
 Sol-:
